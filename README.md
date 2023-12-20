@@ -1,4 +1,4 @@
-Fork of orignal work of xHackTechx, I just added the support files to change the keyboard input language/different layout
+This is a fork of orignal work of xHackTechx, I just added the support files to change the keyboard input language/different layout
 # Pico-Ducky
 Have your Pico Pi or Waveshare RP2040 Zero ducky up and running in two minutes.
 * Go to the following link, in the search bar type the name of your device https://circuitpython.org/downloads
@@ -6,9 +6,7 @@ Have your Pico Pi or Waveshare RP2040 Zero ducky up and running in two minutes.
 * click the download .UF2 Now button
 * Drag and drop the file from your downloads to the root
 * It will disconnect and reconnect as Circuitpy
+* All files needed for Pico Ducky and in the "rp2040_multilanguage" folder. I took all the work out of it so all you Have to do is download the zip file and extract. Once extracted, copy all and place inside on the root.
+The default payload is just a test for some special chars, feel free to edit as you like
 
-NEXT:
-All files needed for Pico Ducky and in the zip folder. I took all the work out of it so all you Have to do is download the zip file and extract. Once extracted, copy all and place inside on the root.
-I have taken the liberty of populating the payload file with the infamous rick roll to prank your friends. If you do not use chrome, feel free to change it to the browser of your choice.
-
-Enjoy!!
+Enjoy!! (@xHackTechx thanks again for the original project)
