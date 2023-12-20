@@ -1,3 +1,4 @@
+Fork of orignal work of xHackTechx, I just added the support files to change the keyboard input language/different layout
 # Pico-Ducky
 Have your Pico Pi or Waveshare RP2040 Zero ducky up and running in two minutes.
 * Go to the following link, in the search bar type the name of your device https://circuitpython.org/downloads
