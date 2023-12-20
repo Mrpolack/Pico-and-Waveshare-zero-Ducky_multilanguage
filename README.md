@@ -9,4 +9,6 @@ Have your Pico Pi or Waveshare RP2040 Zero ducky up and running in two minutes.
 * All files needed for Pico Ducky and in the "rp2040_multilanguage" folder. I took all the work out of it so all you Have to do is download the zip file and extract. Once extracted, copy all and place inside on the root.
 The default payload is just a test for some special chars, feel free to edit as you like
 
+nb: to change keyboard language layout you have to setup the correct template in "lib" folder editing the "duckinpython.py" file.
+
 Enjoy!! (@xHackTechx thanks again for the original project)
